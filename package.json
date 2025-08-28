@@ -1,0 +1,13 @@
+{
+  "name": "aura-ruah-website",
+  "version": "1.0.0",
+  "description": "Website Aura Ruah - Incensos & Sinergias",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": ["website", "static", "aura-ruah"],
+  "author": "Renata Miranda",
+  "license": "MIT"
+}
+
