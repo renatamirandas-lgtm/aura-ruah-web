@@ -325,6 +325,7 @@ body {
     margin-bottom: 1rem;
     line-height: 1.2;
     font-family: 'Playfair Display', serif;
+    color: #ff6b6b;
 }
 
 .hero p {
@@ -337,14 +338,14 @@ body {
 
 .cta-btn {
     display: inline-block;
-    background: var(--accent-color);
+    background: #ff6b6b;
     color: white;
     padding: 1rem 2rem;
     text-decoration: none;
     border-radius: 50px;
     font-weight: 600;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(216, 176, 94, 0.3);
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
     font-family: 'Montserrat', sans-serif;
 }
 
