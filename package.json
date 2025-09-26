@@ -6,10 +6,21 @@
   "scripts": {
     "start": "serve ."
   },
-  "keywords": ["website", "static", "aura-ruah"],
+  "keywords": [
+    "website",
+    "static",
+    "aura-ruah"
+  ],
   "author": "Renata Miranda",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.2",
+    "nodemon": "^3.1.10"
+  }
 }
-
-
-
